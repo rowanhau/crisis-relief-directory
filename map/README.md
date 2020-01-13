@@ -8,7 +8,7 @@ This is a simple template for a pin-based map that draws its content from a publ
 
 ## Project setup
 
-1. `yarn install`
+1. `Yarn install`
 2. Change the project name in package.json
 3. Get an account on Mapbox, and replace the public token in Map.vue with your public token
 
